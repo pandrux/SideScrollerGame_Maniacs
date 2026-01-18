@@ -1,0 +1,70 @@
+Create a 2D sprite sheet of Sir Arthur Boland in the same semi‑realistic, stylized illustration style as the reference image. Depict him as a noble medieval knight with shoulder‑length blonde hair, a confident expression, and full silver plate armor rendered with detailed shading, strong highlights, and clean, deliberate outlines. Include armor elements such as the breastplate, pauldrons, gauntlets, greaves, and sabatons, all with a polished metallic finish. He stands upright in a strict right‑facing side profile, holding a straight‑bladed sword with a golden crossguard in his right hand and a large, cracked kite shield with a reinforced rim in his left hand. Maintain the same proportions, silhouette, and visual identity as the reference artwork. Generate a 4‑frame idle animation showing subtle breathing or posture shifts. Each frame must be exactly 256×256 pixels, arranged in a single horizontal row on a transparent background. Use crisp, high‑detail illustration rather than retro pixel art. Prioritize clean outlines, high‑contrast shading, and consistent character proportions across all frames to ensure the sprite sheet is visually cohesive.
+
+Idle (4 frames)
+---------------
+Create a right-facing idle animation of a Sir Arthur boland. The knight stands upright with a sword in the right hand and a shield in the left hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 4 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure consistent proportions and posture across all frames.
+
+Walk cycle (8 frames)
+---------------------
+Create a right-facing walk cycle animation of a Sir Arthur boland. The knight walks with alternating leg and arm motion, holding a sword in the right hand and a shield in the left hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 8 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure smooth, readable motion and consistent proportions.
+
+Run cycle (8 frames)
+--------------------
+Create a right-facing run cycle animation of a Sir Arthur boland. The knight runs with dynamic forward-leaning motion, sword in right hand, shield in left hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 8 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure dynamic motion and consistent proportions.
+
+Jump from idle (6 frames)
+-------------------------
+Create a right-facing jump animation from idle of a Sir Arthur boland. The knight bends knees, leaps, and lands, holding a sword in the right hand and a shield in the left hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 6 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure clear motion and consistent silhouette.
+
+Jump from walking (6 frames)
+----------------------------
+Create a right-facing jump animation from walking of a Sir Arthur boland. The knight jumps mid-stride, sword in right hand, shield in left hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 6 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure smooth motion and readable pose.
+
+Jump from running (6 frames)
+----------------------------
+Create a right-facing jump animation from running of a Sir Arthur boland. The knight leaps while running, sword in right hand, shield in left hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 6 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure dynamic motion and consistent proportions.
+
+Attack from idle (6 frames)
+---------------------------
+Create a right-facing attack animation from idle of a Sir Arthur boland. The knight swings a sword from idle stance, shield in left hand, sword in right hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 6 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure clear arc and readable motion.
+
+Attack from walking (6 frames)
+------------------------------
+Create a right-facing attack animation from walking of a Sir Arthur boland. The knight swings a sword mid-stride, shield in left hand, sword in right hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 6 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure fluid motion and consistent design.
+
+Attack from running (6 frames)
+------------------------------
+Create a right-facing attack animation from running of a Sir Arthur boland. The knight swings a sword while running, shield in left hand, sword in right hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 6 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure fast motion and clean silhouette.
+
+Block forward from idle (4 frames)
+----------------------------------
+Create a right-facing forward block animation from idle of a Sir Arthur boland. The knight raises a shield in front, sword in right hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 4 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure defensive pose and consistent proportions.
+
+Block forward from walking (4 frames)
+-------------------------------------
+Create a right-facing forward block animation from walking of a Sir Arthur boland. The knight lifts a shield mid-stride, sword in right hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 4 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure smooth motion and readable form.
+
+Block forward from running (4 frames)
+-------------------------------------
+Create a right-facing forward block animation from running of a Sir Arthur boland. The knight raises a shield while running, sword in right hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 4 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure dynamic pose and clean outlines.
+
+Block up from idle (4 frames)
+-----------------------------
+Create a right-facing upward block animation from idle of a Sir Arthur boland. The knight raises a shield overhead, sword in right hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 4 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure defensive posture and consistent design.
+
+Block up from walking (4 frames)
+--------------------------------
+Create a right-facing upward block animation from walking of a Sir Arthur boland. The knight lifts a shield overhead mid-stride, sword in right hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 4 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure clear motion and consistent design.
+
+Block up from running (4 frames)
+--------------------------------
+Create a right-facing upward block animation from running of a Sir Arthur boland. The knight raises a shield overhead while running, sword in right hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 4 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure dynamic motion and readable silhouette.
+
+Hurt (6 frames)
+---------------
+Create a right-facing hurt animation of a Sir Arthur boland. The knight recoils from damage, holding a sword in the right hand and a shield in the left hand, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 6 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure expressive motion and consistent proportions.
+
+Death (6 frames)
+----------------
+Create a right-facing death animation of a Sir Arthur boland. The knight collapses to the ground, dropping sword and shield, facing strictly right. Use crisp art with clean outlines and high-contrast shading. Generate 6 frames, each exactly 256x256 pixels, arranged in a single horizontal row on a transparent background. Ensure clear progression and readable silhouette.
+
