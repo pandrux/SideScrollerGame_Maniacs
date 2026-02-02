@@ -1,0 +1,3 @@
+The static camera is fixed on the character. No rotation, no panning, no zooming, only dolly movement. The camera stays at the same height above the floor and the same distance from the character. The character remains centered in the frame for the entire shot.
+
+He runs to the camera's right.

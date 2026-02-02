@@ -1,0 +1,3 @@
+The static camera is fixed on the character. No camera rotation, no panning, no zooming, only dolly movement. The camera stays at the same height above the floor and the same distance from the knight. The character remains centered in the frame for the entire shot.
+
+He turns and walks to the camera's right and then faces away from the camera to end.
